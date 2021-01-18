@@ -1,0 +1,24 @@
+# Camera
+vendor/etc/camera/calibrationOutput_IR.bin
+vendor/etc/camera/calibrationOutput_wt.bin
+vendor/etc/init/calibrationOutput_IR.rc
+vendor/etc/init/calibrationOutput_wt.rc
+vendor/lib64/camera/com.qti.sensor.gc5035.so
+vendor/lib64/camera/com.qti.sensor.imx689.so
+vendor/lib64/camera/com.qti.sensor.s5k3m5.so
+vendor/lib64/camera/com.qti.sensormodule.semco_imx586_BG.bin
+vendor/lib64/camera/com.qti.sensormodule.semco_imx689.bin
+vendor/lib64/camera/com.qti.sensormodule.semco_imx689_MP.bin
+vendor/lib64/camera/com.qti.sensormodule.semco_s5k3m5.bin
+vendor/lib64/camera/com.qti.sensormodule.shine_gc5035.bin
+vendor/lib64/camera/com.qti.tuned.semco_imx586_BG.bin
+vendor/lib64/camera/com.qti.tuned.semco_imx689.bin
+vendor/lib64/camera/com.qti.tuned.semco_s5k3m5.bin
+vendor/lib64/camera/com.qti.tuned.shine_gc5035.bin
+
+# Fingerprint
+vendor/lib64/hw/goodix.fod.kona.so
+vendor/lib64/hw/goodix.g6.fod.kona.so
+vendor/lib64/fp_hal_extension.so
+vendor/lib64/libgf_g6_ud_hal.so
+vendor/lib64/libgf_ud_hal.so
